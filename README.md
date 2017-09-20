@@ -4,8 +4,10 @@
 
 i want to be able to send a txt file to a server from the command line 
 
-the txt file will contain paragraphs that each have a date/time with them
-the server will need to parse that file, and publish each paragraphs in that file that contains date/time to an rss feed, 5 minutes before the date/time within each paragraph 
+the txt file will contain paragraphs that each have a date/time within them
+
+the server will need to parse that txt file, and publish each paragraphs in that file that contains date/time to an rss feed, 
+5 minutes before the date/time within each paragraph 
 
 
 ## Server
