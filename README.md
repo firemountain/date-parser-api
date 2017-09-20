@@ -24,7 +24,7 @@ When the txt file is reieved it will look like this.
 https://github.com/firemountain/date-parser-to-rss/blob/master/sample.txt
 
 Most paragraphs contain a date and time.
-(see here )
+(see here https://gyazo.com/b508ecfe67b65d11fab13d835107ff16)
 
 
 For paragraphs that contain date and time,
