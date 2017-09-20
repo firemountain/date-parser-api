@@ -1,4 +1,4 @@
-# date-parser-api
+# date-parser-to-rss-feed
 
 ## Overview 
 
