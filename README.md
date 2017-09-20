@@ -21,9 +21,11 @@ The terminal that sends the command should reveive a success/fail message
 
 When the txt file is reieved it will look like this. 
 
-link 
+https://github.com/firemountain/date-parser-to-rss/blob/master/sample.txt
 
 Most paragraphs contain a date and time.
+(see here )
+
 
 For paragraphs that contain date and time,
 We want to create a function that publishes the paragraph to a RSS feed 5 minutes before that date time.
