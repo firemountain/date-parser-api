@@ -42,18 +42,4 @@ that's it!
 
 
 
-## *1* Deploy a mailin node.js http on server, recieve email
-
-- [ ] i will provide you root access to a fresh ubuntu server
-- [ ] you will install https://www.npmjs.com/package/mailin
-- [ ] provide a method to send an email to the server to be parsed
-
-
-
-
-
-
-
-feed https://www.npmjs.com/package/rss
-
 
